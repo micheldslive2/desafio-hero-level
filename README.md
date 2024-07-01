@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./.github/micode.png" width="30%">
+  <img src="https://raw.githubusercontent.com/micheldslive/mi-code.dev/main/.github/micode.png" width="30%">
 </p>
 
 <h1 align="center">
@@ -7,11 +7,9 @@
 </h1>
 
 <p align="center">
-  <img alt="Portfolio" src="https://img.shields.io/static/v1?label=books&message=MiCode&color=success&labelColor=grey">
+  <img alt="Nodejs" src="https://img.shields.io/static/v1?label=stack&message=nodejs&color=success&labelColor=grey">
   
-  <img alt="Node" src="https://img.shields.io/static/v1?label=stack&message=nodejs&color=success&labelColor=grey">
-  
-  <img alt="2024" src="https://img.shields.io/static/v1?label=portfolio&message=MICODE&color=success&labelColor=grey">
+  <img alt="2024" src="https://img.shields.io/static/v1?label=hero&message=LEVEL&color=success&labelColor=grey">
 </p>
 
 ## 💻 Sobre
@@ -53,10 +51,12 @@ cd desafio-hero-level
 npm install
 ```
 
-4. Rode sua aplicação em sua [conexão local](http://localhost:3000)
+4. Rode a aplicação:
 
 ```bash
-npm install
+npm start
+# ou
+node .\index.js
 ```
 
 ---
@@ -67,8 +67,6 @@ Para executar os testes rode os seguinte comando
 
 ```bash
 npm test
-# ou
-yarn test
 ```
 
 ---
